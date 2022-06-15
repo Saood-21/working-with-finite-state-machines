@@ -1,0 +1,16 @@
+{
+  "name": "first_state_machine",
+  "version": "1.0.0",
+  "description": "hope this works",
+  
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node-fetch": "^3.2.5",
+    "xstate": "^4.32.1"
+  }
+}
